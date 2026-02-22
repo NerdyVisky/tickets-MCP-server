@@ -1,0 +1,18 @@
+{
+    "P001": {
+        "room": "201A",
+        "nurse": "nurse_anna"
+    },
+    "P002": {
+        "room": "305B",
+        "nurse": "nurse_anna"
+    },
+    "P003": {
+        "room": "110C",
+        "nurse": "nurse_mike"
+    },
+    "P004": {
+        "room": "402A",
+        "nurse": "nurse_mike"
+    }
+}

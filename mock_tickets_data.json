@@ -1,0 +1,79 @@
+[
+    {
+        "logId": 1,
+        "patient_id": "P001",
+        "room": "201A",
+        "requestSummary": "Patient needs pain medication refill",
+        "rawRequest": "I need to refill my pain medication, just realized I only have two left.",
+        "status": "open",
+        "assignedDepartment": "nursing",
+        "assignedNurseID": "nurse_anna",
+        "priority": "high",
+        "created_at": "2026-02-21 21:36:55.363287+00",
+        "updated_at": "2026-02-21 21:36:55.363287+00"
+    },
+    {
+        "logId": 2,
+        "patient_id": "P002",
+        "room": "305B",
+        "requestSummary": "Routine vitals check due",
+        "rawRequest": "I need to get my vitals checked, I've been feeling a bit dizzy lately.",
+        "status": "open",
+        "assignedDepartment": "nursing",
+        "assignedNurseID": "nurse_anna",
+        "priority": "normal",
+        "created_at": "2026-02-21 21:36:55.363287+00",
+        "updated_at": "2026-02-21 21:36:55.363287+00"
+    },
+    {
+        "logId": 3,
+        "patient_id": "P003",
+        "room": "110C",
+        "requestSummary": "Patient needs help getting to restroom",
+        "status": "acknowledged",
+        "assignedDepartment": "nursing",
+        "assignedNurseID": "nurse_mike",
+        "priority": "high",
+        "created_at": "2026-02-21 21:36:55.363287+00",
+        "updated_at": "2026-02-21 21:36:55.363287+00"
+    },
+    {
+        "logId": 4,
+        "patient_id": "P004",
+        "room": "402A",
+        "requestSummary": "Special dietary meal not delivered",
+        "rawRequest": "I ordered a special dietary meal, but it hasn't been delivered yet.",
+        "status": "open",
+        "assignedDepartment": "hospitality",
+        "assignedNurseID": "nurse_mike",
+        "priority": "normal",
+        "created_at": "2026-02-21 21:36:55.363287+00",
+        "updated_at": "2026-02-21 21:36:55.363287+00"
+    },
+    {
+        "logId": 5,
+        "patient_id": "P001",
+        "room": "201A",
+        "requestSummary": "Patient needs bed position adjustment",
+        "rawRequest": "I need help adjusting my bed position, it is too uncomfortable",
+        "status": "open",
+        "assignedDepartment": "nursing",
+        "assignedNurseID": "nurse_anna",
+        "priority": "normal",
+        "created_at": "2026-02-22 05:37:44.428+00",
+        "updated_at": "2026-02-22 05:37:44.428+00"
+    },
+    {
+        "logId": 6,
+        "patient_id": "P001",
+        "room": "201A",
+        "requestSummary": "New blanket requested",
+        "rawRequest": "I want a new blanket, the current one feels feels too ichy on my skin, can you please send a new blanket",
+        "status": "open",
+        "assignedDepartment": "hospitality",
+        "assignedNurseID": "nurse_anna",
+        "priority": "normal",
+        "created_at": "2026-02-22 05:52:43.092+00",
+        "updated_at": "2026-02-22 05:52:43.092+00"
+    }
+]
